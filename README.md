@@ -1,8 +1,7 @@
 ### NAME : AVINASH T
 ### ROLL NO : 23014109
 
-## EXPERIMENT NO 1
- Study of basic digital ICs and verification of truth tables for different logic gates realization
+## EXPERIMENT NO 1 Study of basic digital ICs and verification of truth tables for different logic gates realization
 
 ## AIM:
  To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
